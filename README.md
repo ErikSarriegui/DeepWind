@@ -1,8 +1,10 @@
 # **DeepWind: Detección de Defectos en Aerogeneradores con Deep Learning**
 
-<div style="display: flex;">
-  <img src="examples/portada_1.png" alt="Descripción de la imagen 1" style="width: 45%; margin-right: 10px;">
-  <img src="examples/portada_2.png" alt="Descripción de la imagen 2" style="width: 45%;">
+<div style="display: flex; justify-content: center; margin: auto; width: 100%;">
+  <div style="display: flex;">
+    <img src="examples/portada_1.png" alt="Descripción de la imagen 1" style="width: 45%; margin-right: 10px;">
+    <img src="examples/portada_2.png" alt="Descripción de la imagen 2" style="width: 45%;">
+  </div>
 </div>
 
 ## 🎯 **Descripción del Proyecto**
