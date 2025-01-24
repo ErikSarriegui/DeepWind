@@ -5,7 +5,7 @@ This script downloads and prepares a wind turbine dataset from Kaggle for YOLO o
 The dataset contains images of wind turbines with annotations for dirt and damage detection.
 
 Requirements:
-- Kaggle API credentials in .env file
+- Kaggle API credentials in the PC (Disk:/Users/Username/.kaggle/kaggle.json)
 - Python packages listed in requirements.txt
 
 Dataset structure after processing:
