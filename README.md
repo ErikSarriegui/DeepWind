@@ -21,13 +21,13 @@ El dataset se descarga automáticamente usando la API de Kaggle. Para configurar
    python download_data.py
    ```
 3. El script organizará los datos en el siguiente formato:
-   ```
+   `
    yolo_dataset
   ├── train
   ├── test
   ├── valid
   └── data.yaml
-   ```
+   `
 4. 🚀 ## Entrenamiento
 ### **Opción 1: Entrenamiento Local**
 Ejecuta el script de entrenamiento:
@@ -41,3 +41,7 @@ results = train_model(
     optimizer="AdamW"
 )
 ```
+
+### **Opción 2: Google Colab**
+Abre [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ErikSarriegui/DeepWind/blob/main/deepwind_colab_training.ipynb)
+ en Google Colab
