@@ -35,7 +35,7 @@ results = train_model(
 ```
 
 ### **Opción 2: Google Colab**
-1. Abre `deepwind_colab_training.ipynb` en Google Colab. [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ErikSarriegui/DeepWind/blob/main/deepwind_colab_training.ipynb)
+1. Abre `deepwind_colab_training.ipynb` en Google Colab. [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ErikSarriegui/DeepWind/blob/main/deepwind_colab_training.ipynb)
 2. Configura los hiperparámetros.
 3. Ejecuta todas las celdas (e inicia sesión con Google en el caso de que tengas el dataset en el Google Drive)
 
@@ -51,7 +51,7 @@ resultados = model("path_a_tu_imagen")
 ```
 
 ### **Opción 2: Gradio en Google Colab**
-1. Abre `deepwind_colab_inference.ipynb` en Google Colab. [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ErikSarriegui/DeepWind/blob/main/deepwind_colab_inference.ipynb)
+1. Abre `deepwind_colab_inference.ipynb` en Google Colab. [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ErikSarriegui/DeepWind/blob/main/deepwind_colab_inference.ipynb)
 2. Ejecuta todas las celdas
 3. Accede al link de Gradio
 
