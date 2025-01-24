@@ -20,7 +20,7 @@ opencv-python
 ```
 
 ## 📊 **Dataset**
-El dataset se descarga automáticamente usando la API de Kaggle. Para configurarlo:
+El dataset (SHIHAVUDDIN & Chen, 2018) está accesible a través de [Kaggle](https://www.kaggle.com/datasets/ajifoster3/yolo-annotated-wind-turbines-586x371). Está sujeto a la licencia CC BY-NC 4.0, por lo que este proyecto también se acoge a dicha licencia. El dataset puede descargarse automáticamente utilizando la API de Kaggle. Para configurarlo:
 
 1. Asegúrate de tener credenciales de Kaggle `(~/.kaggle/kaggle.json)`
 2. Ejecuta el script de descarga:
@@ -76,3 +76,6 @@ A continuación se detalla el rendimiento de la primera iteración del modelo en
 - **Daño (Damage)**: 0.382
 
 **Nota:** Este es el resultado inicial del modelo, y se planean ajustes y mejoras en iteraciones posteriores para optimizar su rendimiento.
+
+# **Referencias**
+- SHIHAVUDDIN, ASM; Chen, Xiao (2018), “DTU - Drone inspection images of wind turbine”, Mendeley Data, V2, doi: 10.17632/hd96prn3nc.2
