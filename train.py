@@ -1,5 +1,4 @@
 from ultralytics import YOLO
-from download_data import download_prepare_data
 
 DATA_YAML = "yolo_dataset/data.yaml"
 YOLO_MODEL = "yolo11n.pt"

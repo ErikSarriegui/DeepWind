@@ -122,9 +122,9 @@ def prepare_data() -> None:
         data = {
             "names": ["Dirt", "Damage"],
             "nc": 2,
-            "train": f"{output_dir}/train/images",
-            "test": f"{output_dir}/test/images",
-            "val": f"{output_dir}/valid/images"
+            "train": "train/images",
+            "test": "test/images",
+            "val": "valid/images"
         }
 
         yaml_path = f"{output_dir}/data.yaml"
