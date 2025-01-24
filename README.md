@@ -1,5 +1,5 @@
 # **DeepWind: Detección de Defectos en Aerogeneradores con Deep Learning**
-
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ErikSarriegui/DeepWind/blob/main/deepwind_colab_inference.ipynb)
 <div style="display: flex; justify-content: center; margin: auto; width: 100%;">
   <div style="display: flex;">
     <img src="examples/portada_1.png" alt="Descripción de la imagen 1" style="width: 45%; margin-right: 10px;">
