@@ -23,10 +23,10 @@ El dataset se descarga automáticamente usando la API de Kaggle. Para configurar
 3. El script organizará los datos en el siguiente formato:
    `
    yolo_dataset/
-  ├── train/
-  ├── test/
-  ├── valid/
-  └── data.yaml/
+   ├── train/
+   ├── test/
+   ├── valid/
+   └── data.yaml
    `
 4. 🚀 ## Entrenamiento
 ### **Opción 1: Entrenamiento Local**
