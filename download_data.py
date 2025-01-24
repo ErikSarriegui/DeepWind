@@ -1,5 +1,5 @@
 """
-YOLO Wind Turbine Dataset Downloader and Preprocessor
+DeepWind Turbine Dataset Downloader and Preprocessor
 
 This script downloads and prepares a wind turbine dataset from Kaggle for YOLO object detection training.
 The dataset contains images of wind turbines with annotations for dirt and damage detection.

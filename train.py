@@ -1,5 +1,5 @@
 """
-YOLO Model Training Script
+DeepWind Model Training Script
 
 This module provides functionality to train a YOLO (You Only Look Once) model
 for object detection tasks. It uses the Ultralytics YOLO implementation.
