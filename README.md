@@ -77,5 +77,5 @@ A continuación se detalla el rendimiento de la primera iteración del modelo en
 
 **Nota:** Este es el resultado inicial del modelo, y se planean ajustes y mejoras en iteraciones posteriores para optimizar su rendimiento.
 
-# **Referencias**
+## **Referencias**
 - SHIHAVUDDIN, ASM; Chen, Xiao (2018), “DTU - Drone inspection images of wind turbine”, Mendeley Data, V2, doi: 10.17632/hd96prn3nc.2
