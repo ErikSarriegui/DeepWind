@@ -1,5 +1,10 @@
 # **DeepWind: Detección de Defectos en Aerogeneradores con Deep Learning**
 
+<div style="display: flex;">
+  <img src="examples/portada_1.png" alt="Descripción de la imagen 1" style="width: 50%; margin-right: 10px;">
+  <img src="examples/portada_2.png" alt="Descripción de la imagen 2" style="width: 50%;">
+</div>
+
 ## 🎯 **Descripción del Proyecto**
 DeepWind es una solución basada en Deep Learning (YOLO) para la detección automática de defectos en aerogeneradores.
 
