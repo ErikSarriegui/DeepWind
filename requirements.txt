@@ -3,3 +3,4 @@ ultralytics
 gradio
 Pillow
 opencv-python
+gradio
