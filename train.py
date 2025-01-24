@@ -1,13 +1,13 @@
 from ultralytics import YOLO
 
-DATA_YAML = "yolo_dataset/data.yaml"
+DATA_YAML = "/content/datasets/yolo_dataset/data.yaml"
 YOLO_MODEL = "yolo11n.pt"
 
-EPOCHS = 5
+EPOCHS = 50
 IMAGE_SIZE = 586
 DEVICE = 0 # GPU index
 OPTIMIZER = "AdamW"
-BATCH_SIZE = 16
+BATCH_SIZE = 32
 
 def train_model(
     data_yaml: str = DATA_YAML,
@@ -28,6 +28,8 @@ def train_model(
         optimizer = optimizer,
         batch = batch_size
     )
+
+    return results
 
 if __name__ == "__main__":
     train_model()
