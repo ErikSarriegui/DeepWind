@@ -3,7 +3,7 @@
 ## 🎯 **Descripción del Proyecto**
 DeepWind es una solución basada en Deep Learning (YOLO) para la detección automática de defectos en aerogeneradores.
 
-🛠️## **Requisitos**
+## 🛠️ **Requisitos**
 ```
 kaggle
 ultralytics
